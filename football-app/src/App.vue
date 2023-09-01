@@ -10,7 +10,7 @@ import FootballApp from './components/FootballApp.vue'; // Importing the Footbal
 export default {
   name: 'App', // Our main Vue component's identifier
   components: {
-    FootballApp // Registering the FootballApp component, making it available for use in this App component
+    FootballApp // Registering the FootballApp component
   }
 };
 </script>
